@@ -1,3 +1,6 @@
+Create flashcard by just add vocab and ai will generate a card for you + spaced repetition for long term memory (Anki method)
+tl;dr: Anki + AI    
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
